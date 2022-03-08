@@ -1,9 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31515.178
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DanfossModbus", "DanfossModbus\DanfossModbus.csproj", "{76737697-B45B-4B87-9E71-965BCD48F116}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DanfossModbus", "DanfossModbus\DanfossModbus.csproj", "{76737697-B45B-4B87-9E71-965BCD48F116}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A9EAB8CC-6A9F-4D00-8150-773F6CFBCF25}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
