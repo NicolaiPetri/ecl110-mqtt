@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DanfossModbus": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

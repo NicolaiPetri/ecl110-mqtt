@@ -1,2 +1,4 @@
 bin/
 obj/
+/.vs/
+/DanfossModbus/DanfossModbus.csproj.user
